@@ -1,0 +1,1 @@
+# hamlite-lam-fire-plots
